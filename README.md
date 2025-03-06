@@ -3,9 +3,10 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Power BI Report with SQL Validation</b>
-  - (https://github.com/Annapoorna-choudi/POWER-BI)
+  - (https://github.com/Annapoorna-choudi/POWER-BI/blob/main/README.md)
 - <b>SUPERSTORE PRODUCT SALES OVERVIEW - Tableau</b>
   - (https://github.com/Annapoorna-choudi/Tableau/blob/main/README.md)
+    
 <h2>📺Certifications</h2>
 
 - SAFE 6 Agilist
