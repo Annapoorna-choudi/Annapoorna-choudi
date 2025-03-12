@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
+- <b>Income Statement, Balance Sheet, and Cash Flow Statements (Financial Modeling)</b>
+  - https://github.com/Annapoorna-choudi/Financial-Modeling/blob/main/README.md
 - <b>Power BI Report with SQL Validation</b>
   - (https://github.com/Annapoorna-choudi/POWER-BI/blob/main/README.md)
 - <b>SUPERSTORE PRODUCT SALES OVERVIEW - Tableau</b>
