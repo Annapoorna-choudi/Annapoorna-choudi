@@ -10,6 +10,8 @@
   - (https://github.com/Annapoorna-choudi/Tableau/blob/main/README.md)
 - <b>Data Visualization - Excel</b>
   - https://github.com/Annapoorna-choudi/Excel---Data-visualization/blob/main/README.md
+- <b>Cost-Benefit Analysis Project</b>
+  - https://github.com/Annapoorna-choudi/Cost--Benefit-analysis/blob/main/README.md
     
 <h2>📺Certifications</h2>
 
